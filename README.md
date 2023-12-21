@@ -4,7 +4,7 @@ A boid simulation using the rules of avoidance, cohesion and alignment
 ![Image](Image.png)
 ### Description
 Project "Koi" is a simple boid simulation using the rules of avoidance, cohesion and alignment based on this [resource](https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html). It simulates a small koi pond, where fishes swim around in a realistic motion and forms schools. There isn't much interactivity, but it is quite a mesmerizing sight to look at. 🤩
-<br>
+<br><br>
 Features:
 
 * Animated fishes, swimming in schools
